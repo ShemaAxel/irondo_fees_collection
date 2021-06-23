@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1498071752 source:c:\users\exodus\documents\c\cprogramming_project\main.c
+	<stdio.h>
+	<string.h>
+

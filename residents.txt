@@ -1,0 +1,8 @@
+1 axel romeo 1996 5 ubumwe 255 2 4000 0 0 0
+
+1 romeo axel 1995 5 abarezi 845 0 0 0 0 0
+
+1 rugumaho faustin 1993 5 ubumwe 4852 2 4000 0 0 0
+
+1 mutware augustin 1990 5 abarezi 52 0 0 0 0 0
+
